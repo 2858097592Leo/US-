@@ -20,7 +20,7 @@
     </style>
 </head>
 <body>
-    <img src="装配步骤/1.PNG" alt="图片1">
+    <img src="装配步骤/1.PNG" alt="装配步骤/1.PNG">
     <img src="装配步骤/3.PNG" alt="图片3">
     <img src="装配步骤/4.PNG" alt="图片4">
     <img src="装配步骤/5.PNG" alt="图片5">
