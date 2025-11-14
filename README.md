@@ -1,4 +1,4 @@
-[Uploading Untitled-1.html…]()
+[Untitled-1.html](https://github.com/user-attachments/files/23543121/Untitled-1.html)
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -21,7 +21,6 @@
 </head>
 <body>
     <img src="装配步骤/1.PNG" alt="图片1">
-    <img src="装配步骤/2.PNG" alt="图片2">
     <img src="装配步骤/3.PNG" alt="图片3">
     <img src="装配步骤/4.PNG" alt="图片4">
     <img src="装配步骤/5.PNG" alt="图片5">
