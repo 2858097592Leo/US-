@@ -3,7 +3,7 @@
 <html lang="zh-CN">
 <head>
     <body>
-        <h1>应斌是大傻逼</h1>
+        <h1>应斌是个大傻逼</h1>
     </body>
     <meta charset="UTF-8">
     <title>图片顺序展示</title>
