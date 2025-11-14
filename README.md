@@ -6,7 +6,7 @@
         <h1>USM安装步骤教程</h1>
     </body>
     <meta charset="UTF-8">
-    <title>图片顺序展示</title>
+    <title>USM安装步骤教程</title>
     <style>
         body {
             max-width: 1200px;
