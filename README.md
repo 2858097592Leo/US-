@@ -3,10 +3,10 @@
 <html lang="zh-CN">
 <head>
     <body>
-        <h1>USM安装步骤教程</h1>
+        <h1>安装说明书1</h1>
     </body>
     <meta charset="UTF-8">
-    <title>USM安装步骤教程</title>
+    <title>安装说明书1</title>
     <style>
         body {
             max-width: 1200px;
